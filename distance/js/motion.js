@@ -1,7 +1,7 @@
 /*
 	Name exercise: Motion Simulation
 	Description: Calculate how much distance an object travels
-	autor: Jonattan Rizo
+	autor: unArvol
 	date: march 15th 2025
 */
 

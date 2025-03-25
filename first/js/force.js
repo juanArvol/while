@@ -1,7 +1,7 @@
 /*
     Name exercise: FORCE-WHILE
     Description: Write a bulk and aceleration for calculate the force, calculate the total and end if bulk or aceleration is negative
-	autor: Jonattan Rizo
+	autor: unArvol
 	date: march 15th 2025
 */
 
