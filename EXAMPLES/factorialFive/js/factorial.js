@@ -1,7 +1,7 @@
 /*
 	Name exercise: Factorial of five
 	Description: Print the factorial of five
-	Autor: Maicol
+	Autor: unArvol
 	Date: March 22th 2025
 */
 
